@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PackerCapture", "PackerCapture\PackerCapture.csproj", "{ECC89D90-5AF7-4F4C-A2DE-2AA4989136BB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirewallManager", "FirewallManager\FirewallManager.csproj", "{50093E19-68DD-49F8-8812-BB09B4EF3EFC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AC0202AD-672D-4186-AC4D-0DF4BB254EBB}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECC89D90-5AF7-4F4C-A2DE-2AA4989136BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC89D90-5AF7-4F4C-A2DE-2AA4989136BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC89D90-5AF7-4F4C-A2DE-2AA4989136BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC89D90-5AF7-4F4C-A2DE-2AA4989136BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50093E19-68DD-49F8-8812-BB09B4EF3EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50093E19-68DD-49F8-8812-BB09B4EF3EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50093E19-68DD-49F8-8812-BB09B4EF3EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50093E19-68DD-49F8-8812-BB09B4EF3EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F25C208-7EDE-46BD-9EB9-FC980E525AEB}
+	EndGlobalSection
+EndGlobal
